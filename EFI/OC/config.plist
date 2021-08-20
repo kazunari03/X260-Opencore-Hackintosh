@@ -995,11 +995,11 @@
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/itlwm</string>
+				<string>Contents/MacOS/AirportItlwm.kext</string>
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>itlwm.kext</string>
+				<string>AirportItlwm.kext</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
