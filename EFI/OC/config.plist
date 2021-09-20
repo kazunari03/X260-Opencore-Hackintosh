@@ -997,24 +997,6 @@
                     <key>MinKernel</key>
                     <string></string>
                     <key>ExecutablePath</key>
-                    <string>Contents/MacOS/AirportItlwm.kext</string>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>AirportItlwm.kext</string>
-                </dict>
-                <dict>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>ExecutablePath</key>
                     <string>Contents/MacOS/RMISMBus</string>
                     <key>Arch</key>
                     <string>Any</string>
@@ -1443,7 +1425,7 @@
                 <key>ScanPolicy</key>
                 <integer>0</integer>
                 <key>SecureBootModel</key>
-                <string>Disabled</string>
+                <string>Default</string>
                 <key>Vault</key>
                 <string>Optional</string>
                 <key>AllowToggleSip</key>
